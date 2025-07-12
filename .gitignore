@@ -1,0 +1,14 @@
+# Ignore editor folders
+.vscode/
+.cph/
+
+# Ignore build files
+*.o
+*.obj
+*.exe
+*.out
+*.class
+
+# Ignore system files
+.DS_Store
+Thumbs.db
