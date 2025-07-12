@@ -20,7 +20,7 @@ Each solution file includes:
 
 Example:
 
-- Problem: Reverse Binarr
+- Problem: Reverse Binarry
 - Link: https://open.kattis.com/problems/reversebinary
 - Difficulty: Easy
 
